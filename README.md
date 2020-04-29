@@ -6,7 +6,7 @@
 
 First tap the repository with the following:
 
-`brew tap omnisharp/omnisharp-roslyn`
+`brew tap mateusfccp/omnisharp-roslyn`
 
 Update brew:
 
